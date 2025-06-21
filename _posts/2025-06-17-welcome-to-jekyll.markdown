@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: posts
 title:  "Welcome!"
-date:   2025-06-17 03:15:58 +0000
-categories: jekyll update
+date: 2025-06-17 03:15:58 +0000
+categories: welcome
 ---
 In case you can't tell from the header, I'm Ian Cooperman. Fun fact: if you Google me, the first result you'll likely see is the LinkedIn page of an "accomplished program manager and scrum master"...based in Florida. That handsome fellow is not me. 
 

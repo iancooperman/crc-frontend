@@ -32,7 +32,7 @@ repository: "iancooperman/crc-frontend"
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
 

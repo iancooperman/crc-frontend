@@ -12,6 +12,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "<i class='fa-brands fa-linkedin'></i>"
+    url: https://www.linkedin.com/in/ian-pl-cooperman/
+    target: _blank
   - title: "<i class='fa-brands fa-github'></i>"
     url: https://github.com/iancooperman
     target: _blank

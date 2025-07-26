@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-excerpt: In case you can't tell from the header, I'm Ian Cooperman.
+excerpt: That's my name. Please wear it out.
 header:
   overlay_image: /assets/images/hero.jpg
 #   overlay_filter: 0.5 # Optional, adds a dark overlay (0 = none, 1 = black)

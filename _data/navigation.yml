@@ -4,11 +4,14 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Hi!"
-    url: /hi/
+  # - title: "Hi!"
+  #   url: /hi/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  - title: "<i class='fa-brands fa-github'></i>"
+    url: https://github.com/iancooperman
+    target: _blank

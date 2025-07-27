@@ -16,3 +16,8 @@ I'm currently an IT Support Technician with the Los Angeles Unified School Distr
 Such a strange coincidence, two Ian Coopermans chasing such oddly parallel careers. But unlike Florida Man, I'm actually available!
 
 Come on in and get acquainted with the 2nd-best Ian Cooperman!
+
+
+```python
+print("This is a test of monospace font. Does it work?")
+```

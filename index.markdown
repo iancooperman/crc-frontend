@@ -9,7 +9,7 @@ header:
 #   overlay_filter: 0.5 # Optional, adds a dark overlay (0 = none, 1 = black)
   caption: "Photo credit: [Haythem Gataa](https://unsplash.com/@haythemgataa){:target='_blank'} on [Unsplash](https://unsplash.com){:target='_blank'}"
 ---
-Hello there!
+## Hello there!
 
 In case you can't tell from the header, I'm Ian Cooperman. Fun fact: if you Google me, the first result you'll likely see is the LinkedIn page of an "accomplished program manager and scrum master"...based in Florida. That handsome fellow is not me. 
 

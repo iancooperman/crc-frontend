@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-excerpt: That's my name. Please wear it out.
+excerpt: That's my name. Please wear it out. <br> 34 visitors and counting!
 header:
   overlay_image: /assets/images/hero.jpg
 #   overlay_filter: 0.5 # Optional, adds a dark overlay (0 = none, 1 = black)

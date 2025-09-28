@@ -2,7 +2,12 @@
 layout: archive
 ---
 <script>
-  fetch("api.iancooperman.com/visitorcount").then(response => console.log(response));
+// small script that fetches the visitor count from a small API Gateway + Lambda + DynamoDB setup I have running.
+  fetch("https://api.iancooperman.com/visitorcount", {
+    method: "POST"
+  })
+    .then(response => response.text())
+    .then(data => document.getElementById("visitor-count").textContent = data);
 </script>
 
 {{ content }}
